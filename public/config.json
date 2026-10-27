@@ -1,0 +1,380 @@
+{
+  "store": {
+    "name": "KAS Store",
+    "tagline": "Especialistas en Mezclilla & Denim",
+    "location": "La Masica, Atlántida, Honduras",
+    "phone": "+504 3305-6175",
+    "whatsapp": "50433056175",
+    "email": "k-andradesantos@gmail.com",
+    "announcement": "Envíos a toda Honduras · Envío gratis en compras mayores a L 1,500",
+    "freeShippingThresholdHnl": 1500
+  },
+  "home": {
+    "hero": {
+      "tagline": "Tienda de Mezclilla · La Masica, Atlántida",
+      "badgeText": "Especialistas en Mezclilla · La Masica",
+      "titleLine1": "Tu estilo,",
+      "titleLine2": "tu esencia.",
+      "description": "Encuentra el pantalón de mezclilla ideal para cada ocasión. Jeans nuevos seleccionados en múltiples tonalidades (índigo profundo, celeste vintage, azul medio, negro permanente y crudo) y cortes precisos para hombre, mujer, niño y niña.",
+      "heroImage": "/images/catalogo/hombres/hero_models_new_jeans_1792801020551.jpg",
+      "ctaButtonText": "Comprar colección"
+    },
+    "categories": {
+      "sectionTitle": "Explora por Categoría",
+      "sectionSubtitle": "Mezclilla para Toda la Familia",
+      "menTitle": "Jeans Hombre",
+      "menSubtitle": "Rectos, Slim Fit, Cargo & Selvedge",
+      "menImage": "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg",
+      "womenTitle": "Jeans Mujer",
+      "womenSubtitle": "Wide-Leg, Mom Fit, Flare & Skinny",
+      "womenImage": "/images/catalogo/mujeres/model_women_jeans_1792801034633.jpg",
+      "kidsBoyTitle": "Jeans Niño",
+      "kidsBoySubtitle": "Rodillas reforzadas & cintura elástica",
+      "kidsBoyImage": "/images/catalogo/niños/model_kids_jeans_1792801035749.jpg",
+      "kidsGirlTitle": "Jeans Niña",
+      "kidsGirlSubtitle": "Wide leg suave, bordados & stretch",
+      "kidsGirlImage": "/images/catalogo/niñas/model_kids_jeans_1792801035749.jpg"
+    },
+    "editorial": {
+      "badge": "Herencia y Confección KAS Store",
+      "title": "Auténtica mezclilla seleccionada para durar",
+      "paragraph1": "Cada pieza en KAS Store pasa por una rigurosa curaduría de mezclilla. Priorizamos telas de hilado continuo y pesos equilibrados que resisten el uso rudo y mantienen la intensidad de sus tintes lavada tras lavada.",
+      "paragraph2": "Desde nuestro centro de operaciones en La Masica, Atlántida, enviamos a todo el territorio nacional con asesoría personalizada de medidas en centímetros para que recibas tu talla exacta sin complicaciones.",
+      "image": "/images/catalogo/hombres/denim_colors_stack_1792801036423.jpg"
+    },
+    "faqs": [
+      {
+        "q": "¿Qué tonalidades de mezclilla manejan en KAS Store?",
+        "a": "Trabajamos una amplia variedad de tonalidades de denim: desde índigo profundo clásico y raw selvedge, hasta azul medio stone-wash, celeste hielo vintage, negro permanente stay-black y denim crudo arena ecru."
+      },
+      {
+        "q": "¿Tienen pantalones de mezclilla para niños y niñas?",
+        "a": "Sí, contamos con una línea completa de jeans para niño y niña con costuras reforzadas, rodilleras de alta resistencia y pretina elástica con botones ajustables que acompañan su crecimiento."
+      },
+      {
+        "q": "¿Cómo realizan los envíos a los departamentos de Honduras?",
+        "a": "Despachamos desde La Masica, Atlántida a través de transporte y paquetería confiable a los 18 departamentos de Honduras (Cortés, Francisco Morazán, Yoro, Colón, Copán, etc.). Con entrega estimada de 24 a 48 horas hábiles."
+      },
+      {
+        "q": "¿Cómo sé cuál es mi talla exacta de jeans?",
+        "a": "Disponemos de una guía interactiva de tallas con medidas en centímetros para hombre, mujer, niño y niña. Además puedes escribirnos a nuestro WhatsApp (+504 3305-6175) y te asesoramos personalmente antes de despachar."
+      },
+      {
+        "q": "¿Cuáles métodos de pago aceptan?",
+        "a": "Coordinamos pagos directos y transparentes por WhatsApp: transferencias bancarias locales en Honduras (BAC, Atlántida, Ficohsa, Banpaís, Banhcafé) o pago contra entrega según la cobertura de paquetería en tu municipio."
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "kas-denim-01",
+      "name": "Jeans Hombre Recto Índigo Profundo Raw",
+      "shortDescription": "Mezclilla rígida pesada 13 oz en tonalidad índigo oscuro sin deslave y remaches cobrizos.",
+      "fullDescription": "Corte recto atemporal confeccionado con denim de alta densidad y costuras dobles reforzadas. Su tonalidad índigo profundo conserva el tinte original para un aspecto pulido que adquiere carácter único con cada puesta.",
+      "priceHnl": 890,
+      "originalPriceHnl": 1150,
+      "category": "rectos",
+      "categoryLabel": "Jeans Rectos",
+      "gender": "hombre",
+      "fitType": "Recto Regular",
+      "denimWash": "Índigo Profundo Raw",
+      "images": [
+        "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg",
+        "/images/catalogo/hombres/category_men_denim_1792794156758.jpg"
+      ],
+      "availableSizes": ["28", "30", "32", "34", "36", "38"],
+      "availableColors": [
+        { "name": "Índigo Profundo", "hex": "#1C273A", "washTone": "Raw Denim" },
+        { "name": "Azul Medio Lavado", "hex": "#3E5C86", "washTone": "Stone Wash" }
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isSale": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Denim Pesado (13 oz)",
+      "careInstructions": "Lavar al revés con agua fría."
+    },
+    {
+      "id": "kas-denim-02",
+      "name": "Jeans Hombre Slim Fit Azul Medio Stone",
+      "shortDescription": "Mezclilla con proceso stone-wash suave y 2% de elastano para flexibilidad ergonómica.",
+      "fullDescription": "El equilibrio entre ajuste contemporáneo y libertad de movimiento. Tonalidad azul medio conseguida con desgastes en piedra volcánica ecológica.",
+      "priceHnl": 920,
+      "category": "slim-fit",
+      "categoryLabel": "Slim Fit",
+      "gender": "hombre",
+      "fitType": "Slim Tapered",
+      "denimWash": "Azul Medio Stone",
+      "images": [
+        "/images/catalogo/hombres/category_men_denim_1792794156758.jpg",
+        "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg"
+      ],
+      "availableSizes": ["30", "32", "34", "36"],
+      "availableColors": [
+        { "name": "Azul Medio Stone", "hex": "#3B608C", "washTone": "Medium Stone Wash" }
+      ],
+      "isFeatured": true,
+      "isNew": true,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "98% Algodón, 2% Elastano Confort",
+      "careInstructions": "Ciclo suave de lavado a 30°C."
+    },
+    {
+      "id": "kas-denim-03",
+      "name": "Jeans Hombre Cargo Mezclilla Azul Marino",
+      "shortDescription": "Diseño utilitario con bolsillos laterales de fuelle y tela denim resistente al desgarro.",
+      "fullDescription": "Bolsillos laterales discretos con solapa, refuerzo de triple costura en entrepierna y corte cómodo para bota o zapatillas.",
+      "priceHnl": 950,
+      "category": "cargo-denim",
+      "categoryLabel": "Cargo Denim",
+      "gender": "hombre",
+      "fitType": "Cargo Relaxed",
+      "denimWash": "Azul Marino Saturado",
+      "images": [
+        "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg"
+      ],
+      "availableSizes": ["30", "32", "34", "36", "38"],
+      "availableColors": [
+        { "name": "Azul Marino Saturado", "hex": "#21334E", "washTone": "Dark Wash" }
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Ripstop Denim",
+      "careInstructions": "Lavar con colores similares."
+    },
+    {
+      "id": "kas-denim-04",
+      "name": "Jeans Hombre Skinny Negro Stay-Black",
+      "shortDescription": "Tinte negro reactivo permanente que resiste decoloración tras múltiples lavadas.",
+      "fullDescription": "Corte skinny ultra estilizado para ocasiones casuales y semiformales con teñido resistente.",
+      "priceHnl": 880,
+      "category": "skinny",
+      "categoryLabel": "Skinny Denim",
+      "gender": "hombre",
+      "fitType": "Skinny Fit",
+      "denimWash": "Negro Profundo Permanente",
+      "images": [
+        "/images/catalogo/hombres/category_men_denim_1792794156758.jpg"
+      ],
+      "availableSizes": ["28", "30", "32", "34"],
+      "availableColors": [
+        { "name": "Negro Profundo", "hex": "#181818", "washTone": "Stay-Black" }
+      ],
+      "isFeatured": false,
+      "isNew": false,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "97% Algodón, 3% Spandex",
+      "careInstructions": "Lavar al revés con ropa oscura."
+    },
+    {
+      "id": "kas-denim-05",
+      "name": "Jeans Mujer Wide Leg Tiro Alto Celeste Vintage",
+      "shortDescription": "Pierna amplia fluida con tiro ultra alto y desgaste artesanal en los bordes inferiores.",
+      "fullDescription": "Una silueta estilizada que abraza la cintura y cae con volumen elegante hasta el empeine.",
+      "priceHnl": 960,
+      "originalPriceHnl": 1200,
+      "category": "wide-leg",
+      "categoryLabel": "Wide Leg",
+      "gender": "mujer",
+      "fitType": "Wide Leg Tiro Alto",
+      "denimWash": "Celeste Hielo Vintage",
+      "images": [
+        "/images/catalogo/mujeres/model_women_jeans_1792801034633.jpg",
+        "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
+      ],
+      "availableSizes": ["24", "26", "28", "30", "32"],
+      "availableColors": [
+        { "name": "Celeste Hielo Vintage", "hex": "#7C9EB2", "washTone": "Light Vintage Wash" }
+      ],
+      "isFeatured": true,
+      "isNew": true,
+      "isSale": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Orgánico Rígido",
+      "careInstructions": "Lavado corto con agua fría."
+    },
+    {
+      "id": "kas-denim-06",
+      "name": "Jeans Mujer Mom Fit Azul Índigo Clásico",
+      "shortDescription": "Corte icónico de los noventa con cadera curva, muslo holgado y tobillo ajustado.",
+      "fullDescription": "Diseñado para moldear la figura con soltura, ofreciendo comodidad superior en el abdomen.",
+      "priceHnl": 890,
+      "category": "mom-fit",
+      "categoryLabel": "Mom Fit",
+      "gender": "mujer",
+      "fitType": "Mom Fit Relaxed",
+      "denimWash": "Azul Índigo Medio",
+      "images": [
+        "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
+      ],
+      "availableSizes": ["26", "28", "30", "32", "34"],
+      "availableColors": [
+        { "name": "Azul Índigo Medio", "hex": "#33527A", "washTone": "Medium Indigo" }
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "99% Algodón, 1% Elastano Suave",
+      "careInstructions": "Lavar siempre al revés."
+    },
+    {
+      "id": "kas-denim-07",
+      "name": "Jeans Mujer Flare Acampanado Azul Oscuro",
+      "shortDescription": "Bota campana refinada que estiliza la longitud de las piernas y abraza la cadera.",
+      "fullDescription": "Líneas limpias sin desgastes agresivos, ideal para calzado de plataforma o botines.",
+      "priceHnl": 940,
+      "category": "flare-denim",
+      "categoryLabel": "Flare / Acampanado",
+      "gender": "mujer",
+      "fitType": "Flare Bootcut",
+      "denimWash": "Azul Oscuro Enzimático",
+      "images": [
+        "/images/catalogo/mujeres/model_women_jeans_1792801034633.jpg"
+      ],
+      "availableSizes": ["26", "28", "30", "32"],
+      "availableColors": [
+        { "name": "Azul Oscuro Enzimático", "hex": "#1E2D42", "washTone": "Enzyme Dark Wash" }
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "92% Algodón, 6% Poliéster, 2% Elastano Sculpt",
+      "careInstructions": "Ciclo delicado."
+    },
+    {
+      "id": "kas-denim-08",
+      "name": "Jeans Mujer Skinny Tiro Alto Azul Marino",
+      "shortDescription": "Ajuste esculpido de máxima compresión y elasticidad que acompaña cada movimiento.",
+      "fullDescription": "Tejido elástico de memoria que no pierde su forma después de horas de uso continuo.",
+      "priceHnl": 850,
+      "category": "skinny",
+      "categoryLabel": "Skinny Denim",
+      "gender": "mujer",
+      "fitType": "High-Rise Skinny",
+      "denimWash": "Azul Marino Pulido",
+      "images": [
+        "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
+      ],
+      "availableSizes": ["24", "26", "28", "30", "32"],
+      "availableColors": [
+        { "name": "Azul Marino Pulido", "hex": "#192639", "washTone": "Clean Dark Denim" }
+      ],
+      "isFeatured": false,
+      "isNew": false,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "85% Algodón, 12% Poliéster, 3% Spandex",
+      "careInstructions": "Lavar con agua fría."
+    },
+    {
+      "id": "kas-denim-09",
+      "name": "Jeans Niño Recto Reforzado Resistente a Juegos",
+      "shortDescription": "Denim resistente con doble refuerzo interior en rodillas y elástico interior ajustable en pretina.",
+      "fullDescription": "Sistema interior de botones elásticos para ajustar la cintura a medida que el niño crece.",
+      "priceHnl": 650,
+      "originalPriceHnl": 790,
+      "category": "rectos",
+      "categoryLabel": "Jeans Niño Recto",
+      "gender": "nino",
+      "fitType": "Recto Infantil Confort",
+      "denimWash": "Azul Medio Activo",
+      "images": [
+        "/images/catalogo/niños/model_kids_jeans_1792801035749.jpg",
+        "/images/catalogo/niños/category_denim_kids_1792796354351.jpg"
+      ],
+      "availableSizes": ["4", "6", "8", "10", "12", "14", "16"],
+      "availableColors": [
+        { "name": "Azul Medio Activo", "hex": "#37577D", "washTone": "Durable Wash" }
+      ],
+      "isFeatured": true,
+      "isNew": false,
+      "isSale": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "99% Algodón Resistente, 1% Elastano",
+      "careInstructions": "Apto para lavadora en ciclo normal."
+    },
+    {
+      "id": "kas-denim-10",
+      "name": "Jeans Niño Jogger Denim Pretina Cómoda",
+      "shortDescription": "Mezclilla ligera tipo jogger con cordón de ajuste en cintura y puños elásticos en tobillo.",
+      "fullDescription": "La combinación de un pantalón de mezclilla con la suavidad de un buzo deportivo.",
+      "priceHnl": 680,
+      "category": "jogger-denim",
+      "categoryLabel": "Jogger Denim Niño",
+      "gender": "nino",
+      "fitType": "Jogger Elástico",
+      "denimWash": "Azul Índigo Suave",
+      "images": [
+        "/images/catalogo/niños/category_denim_kids_1792796354351.jpg"
+      ],
+      "availableSizes": ["6", "8", "10", "12", "14"],
+      "availableColors": [
+        { "name": "Azul Índigo Suave", "hex": "#2F4866", "washTone": "Soft Finish" }
+      ],
+      "isFeatured": false,
+      "isNew": true,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "95% Algodón, 5% Elastano Suave",
+      "careInstructions": "Lavar con agua fría y jabón suave."
+    },
+    {
+      "id": "kas-denim-11",
+      "name": "Jeans Niña Wide Leg Celeste Suave con Bordado",
+      "shortDescription": "Corte amplio ligero en mezclilla suave con delicados detalles bordados y cintura adaptable.",
+      "fullDescription": "Mezclilla prelavada ultra suave que no roza, con botón metálico seguro y ajuste interior.",
+      "priceHnl": 690,
+      "category": "wide-leg",
+      "categoryLabel": "Wide Leg Niña",
+      "gender": "nina",
+      "fitType": "Wide Leg Infantil",
+      "denimWash": "Celeste Nube Suave",
+      "images": [
+        "/images/catalogo/niñas/model_kids_jeans_1792801035749.jpg",
+        "/images/catalogo/niñas/category_denim_kids_1792796354351.jpg"
+      ],
+      "availableSizes": ["4", "6", "8", "10", "12", "14"],
+      "availableColors": [
+        { "name": "Celeste Nube Suave", "hex": "#8AAEC8", "washTone": "Baby Blue Denim" }
+      ],
+      "isFeatured": true,
+      "isNew": true,
+      "isSale": false,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Suave Prelavado",
+      "careInstructions": "Lavar al revés para proteger el bordado."
+    },
+    {
+      "id": "kas-denim-12",
+      "name": "Jeans Niña Slim Fit Elástico Confort",
+      "shortDescription": "Mezclilla flexible de alta elasticidad con remaches planos y acabado en azul medio.",
+      "fullDescription": "Pantalón entallado de tacto aterciopelado que permite moverse con libertad.",
+      "priceHnl": 660,
+      "originalPriceHnl": 780,
+      "category": "slim-fit",
+      "categoryLabel": "Slim Fit Niña",
+      "gender": "nina",
+      "fitType": "Slim Elástico",
+      "denimWash": "Azul Medio Dulce",
+      "images": [
+        "/images/catalogo/niñas/category_denim_kids_1792796354351.jpg"
+      ],
+      "availableSizes": ["6", "8", "10", "12", "14"],
+      "availableColors": [
+        { "name": "Azul Medio Dulce", "hex": "#3B597F", "washTone": "Soft Stone" }
+      ],
+      "isFeatured": false,
+      "isNew": false,
+      "isSale": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "96% Algodón, 4% Spandex Suave",
+      "careInstructions": "Lavado estándar en lavadora."
+    }
+  ]
+}

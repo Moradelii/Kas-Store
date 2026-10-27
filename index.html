@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // En entornos de proxy/iframe (como AI Studio Preview), las conexiones HMR por WebSocket
+      // no están habilitadas. Suprimimos la advertencia no controlada para mantener la consola limpia.
+      window.addEventListener('unhandledrejection', function(event) {
+        var reason = event && event.reason;
+        var msg = (reason && (reason.message || reason.description || String(reason))) || '';
+        if (typeof msg === 'string' && (msg.includes('WebSocket') || msg.includes('ws://') || msg.includes('wss://'))) {
+          event.preventDefault();
+        }
+      });
+    </script>
+    
+    <!-- Title & Primary SEO -->
+    <title>KAS Store — Tienda de Pantalones de Mezclilla | La Masica, Atlántida, Honduras</title>
+    <meta name="description" content="Tienda online especializada en pantalones de mezclilla y jeans para hombre, mujer, niño y niña en Honduras. Variedad de tonalidades, asesoría por WhatsApp y envíos a los 18 departamentos desde La Masica, Atlántida." />
+    <meta name="keywords" content="jeans de mezclilla honduras, pantalones de mezclilla, tienda de jeans honduras, jeans para hombre, jeans para mujer, jeans ninos, kas store la masica, atlantida ropa, comprar pantalones lempiras hnl" />
+    <meta name="author" content="KAS Store | Mora-Grafic's Studio" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://kasstorehn.com/" />
+
+    <!-- Geo Metadata (Honduras) -->
+    <meta name="geo.region" content="HN-AT" />
+    <meta name="geo.placename" content="La Masica, Atlántida" />
+    <meta name="geo.position" content="15.65;-87.13" />
+    <meta name="ICBM" content="15.65, -87.13" />
+
+    <!-- Open Graph (Facebook, WhatsApp, LinkedIn) -->
+    <meta property="og:site_name" content="KAS Store" />
+    <meta property="og:title" content="KAS Store — Especialistas en Mezclilla | La Masica, Atlántida, Honduras" />
+    <meta property="og:description" content="Jeans de alta calidad para toda la familia en múltiples tonalidades y cortes precisos. Envíos garantizados a todo Honduras con pedidos directos por WhatsApp en HNL." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kasstorehn.com/" />
+    <meta property="og:image" content="https://kasstorehn.com/images/logo/Logotipo_KAS_Store_9c74b5ef.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Logotipo Oficial KAS Store - Tu estilo, tu esencia" />
+    <meta property="og:locale" content="es_HN" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="KAS Store — Jeans y Mezclilla Premium en Honduras" />
+    <meta name="twitter:description" content="Pantalones de mezclilla para hombre, mujer, niños y niñas en La Masica, Atlántida. Envíos nacionales en Lempiras (HNL)." />
+    <meta name="twitter:image" content="https://kasstorehn.com/images/logo/Logotipo_KAS_Store_9c74b5ef.png" />
+
+    <!-- Icons & Favicons -->
+    <link rel="icon" type="image/png" href="/images/logo/Logotipo_KAS_Store_9c74b5ef.png" />
+    <link rel="apple-touch-icon" href="/images/logo/Logotipo_KAS_Store_9c74b5ef.png" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+
+    <!-- Schema.org Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ClothingStore",
+          "@id": "https://kasstorehn.com/#store",
+          "name": "KAS Store",
+          "alternateName": "KAS Store Honduras",
+          "description": "Tienda online premium especializada en pantalones de mezclilla para hombre, mujer, niño y niña en diferentes tonalidades en Honduras.",
+          "url": "https://kasstorehn.com/",
+          "logo": "https://kasstorehn.com/images/logo/Logotipo_KAS_Store_9c74b5ef.png",
+          "image": "https://kasstorehn.com/images/logo/Logotipo_KAS_Store_9c74b5ef.png",
+          "telephone": "+50433056175",
+          "email": "k-andradesantos@gmail.com",
+          "priceRange": "L 450 - L 980 HNL",
+          "currenciesAccepted": "HNL",
+          "paymentAccepted": "WhatsApp Order, Bank Transfer, Cash on Delivery",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Barrio El Centro, Frente al Parque Central",
+            "addressLocality": "La Masica",
+            "addressRegion": "Atlántida",
+            "postalCode": "31201",
+            "addressCountry": "HN"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 15.65,
+            "longitude": -87.13
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+              "opens": "08:00",
+              "closes": "18:00"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://kasstorehn.com/#website",
+          "url": "https://kasstorehn.com/",
+          "name": "KAS Store",
+          "inLanguage": "es-HN",
+          "publisher": {
+            "@id": "https://kasstorehn.com/#store"
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://kasstorehn.com/?view=catalog&search={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body class="bg-[#FAF7F2] text-[#2E2721] antialiased selection:bg-[#E8DEC9] selection:text-[#2E2721]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

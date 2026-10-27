@@ -1,0 +1,13 @@
+# KAS Store - Robots.txt
+# La Masica, Atlántida, Honduras - Especialistas en Mezclilla
+
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /api/products
+Allow: /api/categories
+Disallow: /api/admin/
+Disallow: /api/orders
+Disallow: /api/payments/
+
+Sitemap: https://kasstorehn.com/sitemap.xml

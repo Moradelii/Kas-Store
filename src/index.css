@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --color-arena: #E8DEC9;
+  --color-crema: #FAF7F2;
+  --color-beige: #D9CCB8;
+  --color-arena-tropical: #B88B4A;
+  --color-arena-oscura: #8A622A;
+  --color-arena-tostada: #2E2721;
+  --color-blanco-calido: #FFFEFC;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #FAF7F2;
+  color: #2E2721;
+  min-height: 100vh;
+}
+
+h1, h2, h3, .font-editorial {
+  font-family: var(--font-serif);
+}
+
+/* Custom scrollbars with tropical sand tones */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FAF7F2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D9CCB8;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #B88B4A;
+}

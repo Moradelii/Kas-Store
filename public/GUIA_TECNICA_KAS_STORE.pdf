@@ -1,0 +1,653 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 17 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 19 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 21 0 R >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 23 0 R >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 25 0 R >>
+endobj
+16 0 obj
+<< /Length 6348 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 1 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F2 15 Tf 0.18 0.15 0.13 rg 50 750 Td (GUIA TECNICA, MAPA DE ARCHIVOS Y MANUAL DE MODIFICACIONES - KAS STORE) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 714 Td (=====================================================================================) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 703 Td (Proyecto:              KAS Store - Tienda Especializada en Mezclilla y Jeans) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 692 Td (Ubicacion Comercial:   La Masica, Departamento de Atlantida, Republica de Honduras) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 681 Td (Estudio de Diseno:     Mora-Grafic's Studio \(https://mora-grafics-studio.com/\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 670 Td (Version Documentada:   1.0.0 \(Fase 6 - Auditoria y Manual de Arquitectura\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 659 Td (Fecha de Elaboracion:  Octubre de 2026) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 648 Td (Entorno de Ejecucion:  Node.js 22+ / React 19 / TypeScript / Vite / Tailwind CSS v4 /) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 637 Td (=====================================================================================) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 618 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 598 Td (INDICE GENERAL) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 568 Td (1. [Objetivo y Alcance del Documento]\(#1-objetivo-y-alcance-del-documento\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 556 Td (2. [Auditoria Integral de la Estructura de Archivos]\(#2-auditoria-integral-de-la-estructura-de-archivos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 544 Td (3. [Mapa de Archivos por Seccion de la Tienda]\(#3-mapa-de-archivos-por-seccion-de-la-tienda\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 532 Td (* [A. Identidad Visual y Diseno de Marca]\(#a-identidad-visual-y-diseno-de-marca\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 520 Td (* [B. Pagina de Inicio \(Home\)]\(#b-pagina-de-inicio-home\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 508 Td (* [C. Catalogo y Gestion de Productos]\(#c-catalogo-y-gestion-de-productos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 496 Td (* [D. Pagina de Detalle de Producto]\(#d-pagina-de-detalle-de-producto\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 484 Td (* [E. Bolsa de Compras y Carrito]\(#e-bolsa-de-compras-y-carrito\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 472 Td (* [F. Checkout y Creacion de Pedidos]\(#f-checkout-y-creacion-de-pedidos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 460 Td (* [G. Integracion de Pasarelas de Pago]\(#g-integracion-de-pasarelas-de-pago\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 448 Td (* [H. Panel Administrativo de la Tienda]\(#h-panel-administrativo-de-la-tienda\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 436 Td (* [I. Sistema Logistico y Envios en Honduras]\(#i-sistema-logistico-y-envios-en-honduras\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 424 Td (* [J. Canales de Contacto y WhatsApp]\(#j-canales-de-contacto-y-whatsapp\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 412 Td (* [K. SEO, Metadatos y Paginas Legales]\(#k-seo-metadatos-y-paginas-legales\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 400 Td (* [L. Notificaciones y Correos Electronicos]\(#l-notificaciones-y-correos-electronicos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 388 Td (4. [Tabla Maestra de Modificaciones]\(#4-tabla-maestra-de-modificaciones\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 376 Td (5. [Mapas de Flujo de Datos \(Diagramas Mermaid\)]\(#5-mapas-de-flujo-de-datos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 364 Td (6. [Inventario de Variables de Entorno]\(#6-inventario-de-variables-de-entorno\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 352 Td (7. [Base de Datos Relacional y Modelado de Datos]\(#7-base-de-datos-relacional-y-modelado-de-datos\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 340 Td (8. [Protocolo de Seguridad para Modificar el Codigo sin Romperlo]\(#8-protocolo-de-seguridad-para-modificar-el-codigo-sin-romperlo\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 328 Td (9. [Glosario y Guia Practica para el Propietario]\(#9-glosario-y-guia-practica-para-el-propietario\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 316 Td (10. [Estado de Verificacion, Limitaciones Conocidas y Observaciones]\(#10-estado-de-verificacion-limitaciones-conocidas-y-observaciones\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 296 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 276 Td (1. OBJETIVO Y ALCANCE DEL DOCUMENTO) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 246 Td (Este manual ha sido elaborado especificamente para el propietario y los desarrolladores) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 234 Td (de **KAS Store**. Su proposito es servir como documento de consulta permanente para) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 222 Td (comprender la arquitectura real de la aplicacion, localizar de forma inmediata que) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 210 Td (archivo modificar ante cualquier cambio comercial y garantizar que el sistema opere con) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 198 Td (estabilidad, seguridad transaccional y cumplimiento legal en Honduras.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 178 Td (Reglas Clave de Mantenimiento) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 161 Td (* **Fuente de verdad hibrida y tolerante a fallos:** El catalogo se alimenta de la base) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 149 Td (de datos relacional PostgreSQL a traves de `/api/products`. Si la base de datos no) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 137 Td (estuviera disponible, el sistema cuenta con un respaldo en memoria) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 125 Td (\(`src/data/mockProducts.ts`\) para garantizar que la tienda nunca muestre una pantalla en) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 113 Td (blanco a los clientes.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 101 Td (* **Seguridad en pagos y PCI-DSS:** El sistema nunca almacena numeros de tarjeta ni CVV.) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 89 Td (Solo guarda identificadores de transaccion provistos por PixelPay o PayPal.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 77 Td (* **Inventario transaccional:** Toda orden bloquea las existencias en PostgreSQL con) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Length 6946 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 2 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 750 Td (`SELECT FOR UPDATE` para impedir la sobreventa de jeans.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 730 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 710 Td (2. AUDITORIA INTEGRAL DE LA ESTRUCTURA DE ARCHIVOS) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 680 Td (2.1 Arbol Real del Proyecto) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 655 Td (/) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 644 Td (    index.html                           # Punto de entrada HTML con SEO y Schema.org) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 633 Td (    server.ts                            # Servidor Node.js + Express \(API REST y est) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 622 Td (    package.json                         # Definicion de dependencias y scripts de ej) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 611 Td (    tsconfig.json                        # Configuracion del compilador TypeScript) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 600 Td (    vite.config.ts                       # Configuracion de compilacion de Vite y Tai) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 589 Td (    metadata.json                        # Metadatos del entorno AI Studio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 578 Td (    firebase-applet-config.json          # Configuracion de proyecto Firebase) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 567 Td (    CHECKOUT_Y_PAGOS.md                  # Bitacora de pasarelas de pago y sandbox) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 556 Td (    DESPLIEGUE_Y_OPERACIONES.md          # Manual de infraestructura, Cloud Run y bac) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 545 Td ( ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 534 Td (    public/                              # Archivos publicos servidos directamente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 523 Td (        robots.txt                       # Directivas para rastreadores de motores de) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 512 Td (        sitemap.xml                      # Mapa del sitio XML con rutas y productos) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 501 Td (        uploads/                         # Directorio de imagenes subidas desde el pa) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 490 Td (        assets/) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 479 Td (            aistudio/) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 468 Td (                Logotipo_KAS_Store_9c74b5ef.png  # Logotipo oficial de KAS Store) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 457 Td ( ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 446 Td (    src/                                 # Codigo fuente del Frontend y Logica Compar) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 435 Td (        main.tsx                         # Punto de entrada de React 19 \(montaje en #) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 424 Td (        App.tsx                          # Enrutador principal de vistas y layout glo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 413 Td (        index.css                        # Estilos globales y paleta @theme de Tailwi) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 402 Td (        types.ts                         # Definicion de tipos TypeScript e interface) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 391 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 380 Td (        assets/                          # Activos de diseno) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 369 Td (            images/                      # Fotografias de modelos y tonalidades de me) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 358 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 347 Td (        components/                      # Componentes reutilizables de UI) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 336 Td (            Header.tsx                   # Barra de anuncio, navegacion, busqueda y b) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 325 Td (            Footer.tsx                   # Pie de pagina, enlaces de servicio y copyr) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 314 Td (            ProductCard.tsx              # Tarjeta de producto en catalogo y destacad) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 303 Td (            ProductImage.tsx             # Renderizador seguro de imagenes con fallba) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 292 Td (            CartDrawer.tsx               # Drawer deslizable lateral de la bolsa de c) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 281 Td (            AccountModal.tsx             # Modal de cuenta cliente y panel de control) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 270 Td (            SizeGuideModal.tsx           # Modal de guia de tallas \(Hombre, Mujer, Ni) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 259 Td (            WhatsAppButton.tsx           # Boton flotante interactivo de atencion por) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 248 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 237 Td (        context/                         # Proveedores de estado global \(React Contex) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 226 Td (            AuthContext.tsx              # Autenticacion con Firebase y sincronizacio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 215 Td (            CartContext.tsx              # Estado de la bolsa, cantidades y totales e) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 204 Td (            WishlistContext.tsx          # Gestion de favoritos sincronizada con back) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 193 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 182 Td (        data/                            # Datos estaticos y diccionarios) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 171 Td (            mockProducts.ts              # Catalogo base de jeans, imagenes hero y ca) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 160 Td (            hondurasLocations.ts         # Lista de 18 departamentos y municipios de ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 149 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 138 Td (        db/                              # Base de datos relacional PostgreSQL con Dr) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 127 Td (            index.ts                     # Conexion al pool pg \(soporta Cloud SQL y l) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 116 Td (            schema.ts                    # Esquema relacional de tablas, tipos y rela) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 105 Td (            seed.ts                      # Script de inicializacion con productos y c) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 94 Td (            users.ts                     # Funciones de consulta y creacion de usuari) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 83 Td (            drizzle.config.ts            # Configuracion para migraciones de Drizzle ) Tj ET
+endstream
+endobj
+18 0 obj
+<< /Length 6191 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 3 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 750 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 739 Td (        lib/                             # Bibliotecas auxiliares y utilidades) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 728 Td (            cardValidation.ts            # Validacion Luhn y deteccion de marcas de t) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 717 Td (            shippingRates.ts             # Tarifario y calculo oficial por zonas de H) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 706 Td (            firebase.ts                  # Inicializacion del SDK cliente de Firebase) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 695 Td (            firebase-config.ts           # Variables de configuracion de Firebase cli) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 684 Td (            firebase-admin.ts            # Inicializacion de Firebase Admin para back) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 673 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 662 Td (        middleware/                      # Interceptores de peticiones Express) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 651 Td (            auth.ts                      # requireAuth, requireAdmin y optionalAuth) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 640 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 629 Td (        pages/                           # Paginas o vistas principales de la aplicac) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 618 Td (            HomePage.tsx                 # Portada editorial, banner hero, destacados) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 607 Td (            CatalogPage.tsx              # Catalogo con filtros de mezclilla, busqued) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 596 Td (            ProductDetailPage.tsx        # Detalle del jean, selector de variantes y ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 585 Td (            CartPage.tsx                 # Vista completa de la bolsa con desglose de) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 574 Td (            CheckoutPage.tsx             # Proceso de pago, direccion en Honduras y p) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 563 Td (            FavoritesPage.tsx            # Lista de jeans guardados por el usuario) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 552 Td (            PoliciesPage.tsx             # Centro de politicas legales, envios y devo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 541 Td (            NotFoundPage.tsx             # Pagina de error 404 personalizada) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 530 Td (     ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 519 Td (        services/                        # Capa de comunicacion y logica de negocio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 508 Td (            api.ts                       # Cliente HTTP frontend para interactuar con) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 497 Td (            cartStorage.ts               # Persistencia de carrito y favoritos en loc) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 486 Td (            paymentService.ts            # Logica transaccional de pagos, PixelPay y ) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 467 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 447 Td (3. MAPA DE ARCHIVOS POR SECCION DE LA TIENDA) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 417 Td (A. Identidad Visual y Diseno de Marca) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 392 Td (Elemento de Diseno | Archivo Responsable | Donde y Como Modificarlo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 380 Td (--- | --- | ---) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 368 Td (**Logotipo oficial** | `/public/assets/aistudio/Logotipo_KAS_Store_9c74b5ef.png` | Re) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 356 Td (**Paleta de Colores \(Arena y Terracota\)** | `/src/index.css` | En el bloque `@theme` ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 344 Td (**Tipografias** | `/index.html` e `/src/index.css` | Google Fonts en `index.html` \(L.) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 332 Td (**Estilos de Botones y Sombras** | Clases utilitarias de Tailwind en componentes | Lo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 320 Td (**Iconografia** | Todo el proyecto | Utiliza la libreria `lucide-react`. Para cambiar) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 300 Td (B. Pagina de Inicio \(Home\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 275 Td (**Archivo principal:** `/src/pages/HomePage.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 255 Td (* **Banner Principal / Hero:** Lineas 72 a 155. Contiene el logotipo en tamano) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 243 Td (destacado, el titulo *"Tu estilo, tu esencia"*, la descripcion del negocio y los botones) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 231 Td (*"Comprar coleccion"* y *"Descubrir novedades"*.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 219 Td (* **Imagen del Hero:** Constante `HERO_IMAGE` importada desde) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 207 Td (`/src/data/mockProducts.ts` \(L. 3\). Para cambiar la foto de portada, actualiza la ruta) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 195 Td (del archivo JPG en `mockProducts.ts`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 183 Td (* **Productos Destacados y Novedades:** Lineas 39-40. Se filtran automaticamente con) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 171 Td (`productsList.filter\(p => p.isFeatured\)` y `productsList.filter\(p => p.isNew\)`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 159 Td (* **Beneficios de Compra:** Lineas 406 a 460. Contiene los 4 pilares: *Envios a Todo) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 147 Td (Honduras*, *Mezclilla Autentica*, *Asesoria WhatsApp* y *Cambios Sencillos*.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 135 Td (* **Preguntas Frecuentes \(FAQ\):** Lineas 46 a 67. Arreglo `faqs` con preguntas y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 123 Td (respuestas editables directamente en el codigo.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 103 Td (C. Catalogo y Gestion de Productos) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 78 Td (**Archivos involucrados:**) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Length 5814 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 4 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 750 Td (* Frontend: `/src/pages/CatalogPage.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 738 Td (* Backend API: `/server.ts` \(Endpoint `GET /api/products`, L. 78-202\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 726 Td (* Modelo de Datos: `/src/db/schema.ts` \(`products`, `product_variants`, `inventory`,) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 714 Td (   `product_images`\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 702 Td (* Respaldo en memoria: `/src/data/mockProducts.ts`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 682 Td (**Como funciona la fuente de verdad?**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 670 Td (1. Al cargar el catalogo, `CatalogPage.tsx` ejecuta `api.getProducts\(\)`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 658 Td (2. El servidor consulta la tabla `products` en PostgreSQL, uniendo las imagenes \(`product_images`\) y las variantes con su stock real \(`inventory`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 646 Td (3. Si la base de datos responde correctamente, el estado `isDbSynced` pasa a `true` y muestra los productos de PostgreSQL.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 634 Td (4. Si la base de datos estuviera desconectada, la funcion atrapa el error y utiliza `MOCK_PRODUCTS` de forma transparente.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 614 Td (D. Pagina de Detalle de Producto) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 589 Td (**Archivo de Presentacion:** `/src/pages/ProductDetailPage.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 577 Td (**Endpoint de Logica:** `/server.ts` \(`GET /api/products/:slugOrId`, L. 205-303\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 557 Td (* **Galeria de Imagenes:** Lineas 55-60 y componente `ProductImage.tsx`. Permite cambiar) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 545 Td (la foto activa mediante miniaturas.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 533 Td (* **Selector de Tallas y Colores:** Lineas 160-230. Valida si la combinacion especifica) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 521 Td (tiene unidades en stock llamando a `isVariantOutOfStock\(\)`. Si esta agotada, el boton) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 509 Td (muestra *"Agotado en esta combinacion"*.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 497 Td (* **Acciones:**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 485 Td (* *Agregar a la Bolsa:* Ejecuta `addItem\(product, selectedSize, selectedColor,) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 473 Td (quantity\)` de `CartContext.tsx` y despliega el `CartDrawer`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 461 Td (* *Comprar Ahora:* Agrega el jean a la bolsa y redirige automaticamente a la vista de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 449 Td (   `checkout`.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 429 Td (E. Bolsa de Compras y Carrito) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 404 Td (**Archivos involucrados:**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 392 Td (* Estado Global: `/src/context/CartContext.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 380 Td (* Persistencia Local: `/src/services/cartStorage.ts`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 368 Td (* Vista Drawer Deslizable: `/src/components/CartDrawer.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 356 Td (* Pagina Completa de Bolsa: `/src/pages/CartPage.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 344 Td (* Validacion en Servidor: `/server.ts` \(`POST /api/checkout/calculate`, L. 366-460\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 324 Td (**Regla de Seguridad:** El calculo visual del carrito en el cliente \(`subtotalHnl` y) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 312 Td (`shippingHnl` en `CartContext.tsx`\) es solo informativo. Cuando el usuario procede a) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 300 Td (pagar, el servidor en `/api/checkout/calculate` y en `/api/orders` recalcula de manera) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 288 Td (obligatoria los precios consultando los valores oficiales en la base de datos para) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 276 Td (impedir manipulaciones en el navegador.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 256 Td (F. Checkout y Creacion de Pedidos) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 231 Td (**Archivo Frontend:** `/src/pages/CheckoutPage.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 219 Td (**Endpoints Backend:** `/server.ts`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 207 Td (* `POST /api/checkout/calculate` \(L. 366\): Calculo autoritativo de subtotal, descuento) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 195 Td (de cupon y tarifa de envio.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 183 Td (* `POST /api/orders` \(L. 463-734\): Creacion transaccional del pedido con reserva de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 171 Td (   inventario.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 159 Td (* `GET /api/orders/:orderNumber` \(L. 937\): Consulta de pedido por numero unico.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 139 Td (**Flujo de Reserva de Inventario:**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 127 Td (1. El backend abre una transaccion PostgreSQL con `client.query\('BEGIN'\)`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 115 Td (2. Ejecuta `reserveInventory\(\)` en `/src/services/paymentService.ts`, aplicando `SELECT stock_quantity, reserved_quantity FROM inventory WHERE variant_id = $1 FOR UPDATE`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 103 Td (3. Si hay suficiente stock, incrementa `reserved_quantity` y decrementa `stock_quantity`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 91 Td (4. Si alguna prenda no tiene existencias, la transaccion hace `ROLLBACK` y el cliente recibe un error HTTP 400 sin crear pedidos huerfanos.) Tj ET
+endstream
+endobj
+20 0 obj
+<< /Length 5853 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 5 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 750 Td (G. Integracion de Pasarelas de Pago) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 725 Td (#### G.1 PixelPay Honduras \(Tarjetas de Credito y Debito\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 713 Td (* **Archivos:** `/src/services/paymentService.ts` \(L. 165-275\),) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 701 Td (`/src/lib/cardValidation.ts`, `/server.ts` \(L. 739-781\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 689 Td (* **Moneda de liquidacion:** Lempiras \(HNL\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 677 Td (* **Modo Sandbox / Pruebas:** Si no se detectan las variables `PIXELPAY_KEY` y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 665 Td (`PIXELPAY_SECRET`, el sistema activa el simulador bancario interno que responde con los) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 653 Td (codigos reglamentarios de la CNBS:) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 641 Td (* Tarjeta `4242 4242 4242 4242`   **Aprobada** \(`00`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 629 Td (* Tarjeta `4000 0000 0000 0002`   **Declinada: Fondos Insuficientes** \(`51`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 617 Td (* Tarjeta `4000 0000 0000 0004`   **Declinada: Tarjeta Vencida** \(`54`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 605 Td (* Tarjeta `4000 0000 0000 0005`   **Declinada: Fallo de Autenticacion 3D-Secure**) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 593 Td (   \(`3DS_FAILED`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 581 Td (* Tarjeta `4000 0000 0000 9999`   **Fallo de Red / Timeout Bancario** \(`96`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 569 Td (* **Webhook:** `/api/webhooks/pixelpay` \(L. 856 en `server.ts`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 549 Td (#### G.2 PayPal REST API v2 \(Pagos Internacionales\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 537 Td (* **Archivos:** `/src/services/paymentService.ts` \(L. 280-380\), `/server.ts` \(L.) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 525 Td (   786-818\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 513 Td (* **Moneda:** Dolares Estadounidenses \(USD\). Utiliza la tasa oficial de conversion) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 501 Td (configurada en `HNL_TO_USD_RATE = 25.50`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 489 Td (* **Endpoints:**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 477 Td (* `POST /api/payments/paypal/create-order`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 465 Td (* `POST /api/payments/paypal/capture-order`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 453 Td (* **Webhook:** `/api/webhooks/paypal` \(L. 883 en `server.ts`\).) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 433 Td (H. Panel Administrativo de la Tienda) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 408 Td (**Archivo Frontend:** `/src/components/AccountModal.tsx`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 396 Td (**Endpoints Backend:** `/server.ts` \(Protegidos con `requireAuth` y `requireAdmin`\)) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 384 Td (* `GET /api/admin/orders` \(L. 1015\): Lista los ultimos 50 pedidos con sus articulos y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 372 Td (estado de envio.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 360 Td (* `PATCH /api/admin/orders/:id/status` \(L. 1047\): Permite al administrador cambiar el) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 348 Td (estado a: `confirmed`, `processing`, `shipped`, `delivered` o `cancelled`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 336 Td (* `GET /api/admin/inventory` \(L. 1096\): Lista todas las variantes de pantalones) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 324 Td (registradas en la base de datos con su SKU y stock actual.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 312 Td (* `PATCH /api/inventory/:variantId` \(L. 1126\): Actualiza el numero de unidades en stock) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 300 Td (de una variante especifica.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 288 Td (* `POST /api/admin/images/upload` \(L. 1145\): Recibe imagenes en base64 \(JPEG, PNG, WEBP) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 276 Td (de hasta 5MB\), las valida y las guarda en `/public/uploads/`, retornando la URL publica) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 264 Td (para asociarla al producto.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 244 Td (I. Sistema Logistico y Envios en Honduras) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 219 Td (**Archivos:** `/src/lib/shippingRates.ts` y `/src/data/hondurasLocations.ts`) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 199 Td (* **Departamentos y Municipios:** `HONDURAS_DEPARTMENTS` contiene los 18 departamentos y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 187 Td (los principales municipios, incluyendo *"La Masica \(Sede KAS Store\)"* como primera) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 175 Td (opcion en Atlantida.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 163 Td (* **Tarifario por Zonas Geograficas:**) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 151 Td (1. *Zona Atlantida \(Local\):* L 80.00 \(Entrega en 24 hrs por mensajeria local\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 139 Td (2. *Zona Norte \(Cortes, Yoro\):* L 110.00 \(24 a 48 hrs por Cargo Expreso / Mirna\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 127 Td (3. *Zona Centro-Sur \(Francisco Morazan, Comayagua, La Paz, Choluteca, Valle\):* L 130.00 \(48 hrs\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 115 Td (4. *Zona Foranea \(Colon, Copan, Olancho, Islas de la Bahia, etc.\):* L 150.00 \(48 a 72 hrs\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 103 Td (* **Umbral de Envio Gratuito:** Definido en la constante `FREE_SHIPPING_THRESHOLD_HNL =) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 91 Td (1500`. En compras de L 1,500.00 o mas, el costo de envio es L 0.00 automaticamente.) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Length 5933 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 6 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 750 Td (J. Canales de Contacto y WhatsApp) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 725 Td (* **Boton Flotante:** `/src/components/WhatsAppButton.tsx` \(L. 38\). Numero configurado:) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 713 Td (`+504 3305-6175`. Mensaje predefinido codificado en URL: `Hola KAS Store, quisiera) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 701 Td (informacion sobre los pantalones de mezclilla`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 689 Td (* **Cabecera y Barra Superior:** `/src/components/Header.tsx` \(L. 52-58\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 677 Td (* **Pie de Pagina:** `/src/components/Footer.tsx` \(L. 73-81 y L. 208-242\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 665 Td (* **Centro de Contacto:** `/src/pages/PoliciesPage.tsx` \(Pestana `contacto`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 653 Td (* **Datos de la Sede:** Barrio El Centro, La Masica, Atlantida, Honduras. Correo:) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 641 Td (   `k-andradesantos@gmail.com`.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 621 Td (K. SEO, Metadatos y Paginas Legales) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 596 Td (* **Metaetiquetas y Schema.org:** `/index.html`. Contiene el objeto JSON-LD `@type:) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 584 Td ("ClothingStore"` con direccion postal en La Masica, telefono, coordenadas geograficas y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 572 Td (catalogo indexable.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 560 Td (* **Directivas para Motores de Busqueda:** `/public/robots.txt`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 548 Td (* **Mapa de URLs:** `/public/sitemap.xml`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 536 Td (* **Centro de Politicas:** `/src/pages/PoliciesPage.tsx` con navegacion por pestanas:) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 524 Td (* `envios`: Politicas de despacho y transportistas en Honduras.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 512 Td (* `devoluciones`: 10 dias para cambio de talla sin uso.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 500 Td (* `terminos`: Terminos de compra conforme a la Ley de Comercio Electronico \(Decreto) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 488 Td (   149-2014\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 476 Td (* `privacidad`: Manejo etico de datos del comprador.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 464 Td (* `contacto`: Canales oficiales de soporte.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 452 Td (* `faq`: Preguntas frecuentes de clientes.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 440 Td (* **Pagina de Error 404:** `/src/pages/NotFoundPage.tsx`.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 420 Td (L. Notificaciones y Correos Electronicos) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 395 Td (* **Estado Actual:** El backend actual registra todos los eventos de confirmacion en la) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 383 Td (tabla `payment_events`. Las variables para proveedor de correo transaccional) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 371 Td (\(`RESEND_API_KEY`, `EMAIL_FROM`, `ADMIN_ALERT_EMAIL`\) estan contempladas en) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 359 Td (`.env.example` y documentadas en `DESPLIEGUE_Y_OPERACIONES.md`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 347 Td (* **Notificacion por WhatsApp:** En la arquitectura actual, la notificacion y) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 335 Td (coordinacion de guias de entrega se realiza de forma directa e inmediata a traves de la) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 323 Td (API oficial de enlace de WhatsApp \(`https://wa.me/50433056175`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 303 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 283 Td (4. TABLA MAESTRA DE MODIFICACIONES) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 253 Td (Esta tabla es la guia de referencia rapida para que el propietario o desarrollador sepa) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 241 Td (con exactitud que archivo tocar segun la necesidad del negocio:) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 221 Td (# | Cambio que deseo realizar | Archivos a revisar | Funcion del archivo | Tipo de mo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 209 Td (--- | --- | --- | --- | --- | --- | ---) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 197 Td (1 | **Cambiar el Logotipo** | `/public/assets/aistudio/Logotipo_KAS_Store_9c74b5ef.pn) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 185 Td (2 | **Cambiar colores de la marca** | `/src/index.css` | Define tokens `@theme` de Ta) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 173 Td (3 | **Modificar textos del banner principal** | `/src/pages/HomePage.tsx` | Renderiza) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 161 Td (4 | **Cambiar los productos destacados** | Panel Admin o `/src/data/mockProducts.ts` ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 149 Td (5 | **Anadir un nuevo pantalon** | `/src/data/mockProducts.ts` y tabla `products` de ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 137 Td (6 | **Cambiar precio de un jean** | Base de datos \(`products.basePriceHnl`\) o `/src/d) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 125 Td (7 | **Modificar las tallas disponibles** | `/src/data/mockProducts.ts` y tabla `produ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 113 Td (8 | **Subir nuevas fotografias de jeans** | Panel Admin \(`AccountModal.tsx` > Subir I) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 101 Td (9 | **Cambiar el numero de WhatsApp** | `/src/components/WhatsAppButton.tsx`, `Header) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 89 Td (10 | **Modificar tarifas de envio por departamento** | `/src/lib/shippingRates.ts` | ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 77 Td (11 | **Cambiar el umbral de envio gratis** | `/src/lib/shippingRates.ts` | Constante ) Tj ET
+endstream
+endobj
+22 0 obj
+<< /Length 5553 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 7 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 750 Td (12 | **Modificar campos del formulario de compra** | `/src/pages/CheckoutPage.tsx` y ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 738 Td (13 | **Ajustar existencias de inventario** | Panel Admin \(`AccountModal.tsx` > Invent) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 726 Td (14 | **Habilitar credenciales reales de PixelPay** | Archivo `.env` en el servidor | ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 714 Td (15 | **Habilitar credenciales reales de PayPal** | Archivo `.env` en el servidor | `P) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 702 Td (16 | **Modificar politicas legales o terminos** | `/src/pages/PoliciesPage.tsx` | Con) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 690 Td (17 | **Crear o modificar un cupon de descuento** | Tabla `coupons` en PostgreSQL o `/) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 670 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 650 Td (5. MAPAS DE FLUJO DE DATOS) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 620 Td (5.1 Flujo General: Navegador   Frontend   API   Base de Datos) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 595 Td (graph TD) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 584 Td (    User\([Cliente en Navegador]\) -->|Solicita Catalogo o Producto| ReactApp[Frontend ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 573 Td (    ReactApp -->|fetch '/api/products'| ExpressServer[Servidor Express API]) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 562 Td (    ExpressServer -->|Consulta SQL con Drizzle| PostgreSQL[\(Base de Datos Cloud SQL\)]) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 551 Td (    PostgreSQL -->|Retorna registros y stock| ExpressServer) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 540 Td (    ExpressServer -->|JSON con productos hidratados| ReactApp) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 529 Td (    ReactApp -->|Renderiza interfaz visual| User) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 510 Td (5.2 Flujo de Checkout con Reserva Transaccional de Inventario) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 485 Td (sequenceDiagram) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 474 Td (    autonumber) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 463 Td (    actor Cliente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 452 Td (    participant Checkout as CheckoutPage.tsx) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 441 Td (    participant API as server.ts \(/api/orders\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 430 Td (    participant PaymentSvc as paymentService.ts) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 419 Td (    participant DB as PostgreSQL \(Transaccion BEGIN\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 397 Td (    Cliente->>Checkout: Ingresa direccion en Honduras y confirma pedido) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 386 Td (    Checkout->>API: POST /api/orders \(items, direccion, metodo, idempotencyKey\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 375 Td (    API->>DB: BEGIN TRANSACTION) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 364 Td (    API->>PaymentSvc: reserveInventory\(items\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 353 Td (    PaymentSvc->>DB: SELECT stock_quantity FROM inventory WHERE variant_id = $1 FOR U) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 342 Td (    alt Hay stock suficiente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 331 Td (        DB-->>PaymentSvc: Existencias bloqueadas) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 320 Td (        PaymentSvc->>DB: UPDATE inventory SET stock_quantity = stock - qty, reserved ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 309 Td (        API->>DB: INSERT INTO orders \(status: 'pending'\) RETURNING order_number) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 298 Td (        API->>DB: COMMIT TRANSACTION) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 287 Td (        API-->>Checkout: 201 Created \(Order Number: KAS-2026-XXXX\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 276 Td (        Checkout-->>Cliente: Despliega pasarela de pago seleccionada \(Tarjeta / PayPa) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 265 Td (    else Stock agotado o insuficiente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 254 Td (        DB-->>PaymentSvc: Existencias menores a cantidad solicitada) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 243 Td (        PaymentSvc-->>API: Error: Inventario insuficiente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 232 Td (        API->>DB: ROLLBACK TRANSACTION) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 221 Td (        API-->>Checkout: 400 Bad Request) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 210 Td (        Checkout-->>Cliente: Alerta: "Prenda agotada. Por favor actualiza tu bolsa.") Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 199 Td (    end) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 180 Td (5.3 Flujo de Pago con Tarjeta \(PixelPay Honduras\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 155 Td (sequenceDiagram) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 144 Td (    autonumber) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 133 Td (    actor Cliente) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 122 Td (    participant Checkout as CheckoutPage.tsx) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 111 Td (    participant API as server.ts \(/api/payments/card/process\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 100 Td (    participant Gateway as PixelPay API / Simulador CNBS) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 89 Td (    participant DB as PostgreSQL) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Length 6663 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 8 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 750 Td (    Cliente->>Checkout: Digita tarjeta, mes, ano, CVV y hace clic en "Pagar") Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 739 Td (    Checkout->>API: POST /api/payments/card/process \(orderId, datos tarjeta tokenizab) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 728 Td (    API->>Gateway: Enviar solicitud de cobro con importe en HNL) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 717 Td (    alt Transaccion Aprobada \(Codigo 00\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 706 Td (        Gateway-->>API: Respuesta de aprobacion con authorization_code) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 695 Td (        API->>DB: UPDATE orders SET status = 'confirmed', payment_status = 'completed) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 684 Td (        API->>DB: confirmInventory\(orderId\) -> Reduce reserved_quantity de forma defi) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 673 Td (        API->>DB: INSERT INTO payments \(status: 'captured', card_brand, card_last_fou) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 662 Td (        API-->>Checkout: 200 OK \(Pago confirmado con exito\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 651 Td (        Checkout-->>Cliente: Pantalla de Pedido Confirmado con numero de guia) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 640 Td (    else Transaccion Declinada \(Fondos, vencida, etc.\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 629 Td (        Gateway-->>API: Declinada con codigo de rechazo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 618 Td (        API->>DB: INSERT INTO payment_events \(event: 'PAYMENT_DECLINED'\)) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 607 Td (        API-->>Checkout: 402 Payment Required \(Mensaje amigable segun codigo bancario) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 596 Td (        Checkout-->>Cliente: Muestra razon del banco y permite reintentar sin perder ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 585 Td (    end) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 566 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 546 Td (6. INVENTARIO DE VARIABLES DE ENTORNO) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 516 Td (A continuacion se detalla la matriz de variables de entorno del sistema. **Por razones) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 504 Td (de seguridad, nunca se deben colocar valores reales en archivos bajo control de) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 492 Td (versiones:**) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 472 Td (Variable | Servicio | Proposito | Publica o Secreta? | Donde se configura | Obligat) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 460 Td (--- | --- | --- | --- | --- | --- | ---) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 448 Td (`PORT` | Servidor Express | Puerto de escucha HTTP | Publica \(Sistema\) | `.env` / Clo) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 436 Td (`NODE_ENV` | Entorno | `development` o `production` | Publica | `.env` / Dockerfile |) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 424 Td (`DATABASE_URL` | PostgreSQL | Cadena de conexion para Drizzle Kit | **Secreta** | `.e) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 412 Td (`PGHOST` | Driver pg | Servidor de base de datos | Secreta | `.env` | Si | `GET /api/) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 400 Td (`PGPORT` | Driver pg | Puerto de PostgreSQL \(5432\) | Publica | `.env` | Si | Verifica) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 388 Td (`PGUSER` | Driver pg | Usuario de base de datos | Secreta | `.env` | Si | Verificada ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 376 Td (`PGPASSWORD` | Driver pg | Contrasena de base de datos | **Secreta** | `.env` | Si | ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 364 Td (`PGDATABASE` | Driver pg | Nombre de base de datos | Publica | `.env` | Si | Verifica) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 352 Td (`PGSSLMODE` | Driver pg | Modo SSL \(`require` en nube\) | Publica | `.env` | Si en nub) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 340 Td (`PIXELPAY_KEY` | PixelPay | Llave publica de comercio | Publica de integracion | `.en) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 328 Td (`PIXELPAY_SECRET` | PixelPay | Llave secreta para firmar cobros | **Altamente Secreta) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 316 Td (`PIXELPAY_AUTH_TOKEN` | PixelPay | Token Bearer para API v2 | **Secreta** | `.env` | ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 304 Td (`PAYPAL_API_BASE` | PayPal | URL base \(sandbox o live\) | Publica | `.env` | Si \(`http) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 292 Td (`PAYPAL_CLIENT_ID` | PayPal | Identificador de aplicacion | Publica de integracion | ) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 280 Td (`PAYPAL_CLIENT_SECRET` | PayPal | Clave secreta OAuth de PayPal | **Altamente Secreta) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 268 Td (`FIREBASE_PROJECT_ID` | Firebase | Proyecto de autenticacion | Publica | `firebase-ap) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 248 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 228 Td (7. BASE DE DATOS RELACIONAL Y MODELADO DE DATOS) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 198 Td (El proyecto utiliza **PostgreSQL** administrado mediante **Drizzle ORM** \(definido en) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 186 Td (`/src/db/schema.ts`\).) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 166 Td (7.1 Tablas y Entidades del Sistema) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 141 Td (1. **`users`:** Almacena el perfil del cliente sincronizado con Firebase Auth \(`uid`, `email`, `full_name`, `phone`, `role`: `'admin'` o `'customer'`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 129 Td (2. **`categories`:** Categorias de mezclilla \(`slug`, `name`, `gender_target`, `image_url`, `display_order`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 117 Td (3. **`products`:** Registro maestro de jeans \(`slug`, `name`, `base_price_hnl`, `gender`, `fit_type`, `denim_wash`, `fabric_composition`, `is_published`, `is_featured`, `is_new`, `is_sale`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 105 Td (4. **`product_images`:** Galeria de imagenes de cada prenda con orden de visualizacion \(`product_id`, `image_url`, `alt_text`, `is_primary`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 93 Td (5. **`product_variants`:** Variantes por combinacion de talla y color \(`product_id`, `size`, `color_name`, `color_hex`, `sku`, `price_adjustment_hnl`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 81 Td (6. **`inventory`:** Existencias en tiempo real \(`variant_id`, `stock_quantity`, `reserved_quantity`, `low_stock_threshold`\).) Tj ET
+endstream
+endobj
+24 0 obj
+<< /Length 6783 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 9 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 750 Td (7. **`coupons`:** Cupones de descuento promocionales \(`code`, `discount_percent`, `discount_amount_hnl`, `min_purchase_hnl`, `max_uses`, `used_count`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 738 Td (8. **`orders`:** Pedidos realizados \(`order_number`, `user_id`, `guest_email`, `status`, `subtotal_hnl`, `discount_hnl`, `shipping_fee_hnl`, `total_hnl`, `shipping_departamento`, `shipping_municipio`, `shipping_address`, `idempotency_key`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 726 Td (9. **`order_items`:** Snapshot historico de cada articulo comprado \(`order_id`, `product_id`, `product_name_snapshot`, `size_snapshot`, `color_snapshot`, `unit_price_hnl_snapshot`, `quantity`, `line_total_hnl`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 714 Td (10. **`payments`:** Transacciones financieras \(`order_id`, `amount_hnl`, `currency`, `provider`, `status`, `transaction_reference`, `card_brand`, `card_last_four`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 702 Td (11. **`payment_events`:** Registro de auditoria y webhooks recibidos \(`order_id`, `provider`, `event_type`, `payload`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 690 Td (12. **`shipments`:** Informacion de despacho \(`order_id`, `tracking_number`, `carrier_name`, `status`, `estimated_delivery_at`\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 678 Td (13. **`wishlist_items`:** Articulos favoritos guardados por clientes registrados \(`user_id`, `product_id`\).) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 658 Td (7.2 Como anadir un nuevo campo en la base de datos) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 641 Td (Si en el futuro se necesita anadir un campo \(por ejemplo, `instagram_url` en la tabla de) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 629 Td (tiendas o `delivery_instructions` en pedidos\):) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 617 Td (1. Abrir `/src/db/schema.ts` y anadir la columna en la definicion de la tabla con su tipo de dato.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 605 Td (2. Ejecutar en terminal: `npx drizzle-kit push` para aplicar la modificacion a PostgreSQL de forma segura.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 593 Td (3. Actualizar la interfaz TypeScript correspondiente en `/src/types.ts`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 573 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 553 Td (8. PROTOCOLO DE SEGURIDAD PARA MODIFICAR EL CODIGO SIN ROMPERLO) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 523 Td (Para realizar cualquier modificacion tecnica sin afectar las ventas ni la estabilidad de) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 511 Td (la tienda, siga rigurosamente este protocolo de 10 pasos:) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 491 Td ([1. Localizar Archivo]  --> [2. Revisar Dependencias] --> [3. Crear Copia/Rama]) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 480 Td (         |) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 469 Td ([4. Cambio Minimo]      --> [5. Compilar \(npm run build\)] --> [6. Validar Linter \(npm) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 458 Td (         |) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 447 Td ([7. Probar Caso Feliz]  --> [8. Probar Errores/Bordes]  --> [9. Revisar Logs de Conso) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 436 Td (         |) Tj ET
+BT /F3 8.5 Tf 0.15 0.25 0.35 rg 50 425 Td ([10. Aprobacion y Despliegue a Produccion]) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 406 Td (Reglas Criticas) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 389 Td (1. **Nunca modifique archivos de pago sin validar en Sandbox:** Toda prueba de tarjetas debe realizarse primero con las tarjetas de prueba del test suite en `/api/payments/test-suite`.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 377 Td (2. **Respeto a las transacciones de inventario:** Cualquier cambio en `/api/orders` debe mantener el bloque `BEGIN ... COMMIT / ROLLBACK` y el `client.release\(\)` en el bloque `finally` para no agotar el pool de conexiones de PostgreSQL.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 365 Td (3. **Validacion de tipos:** Ejecutar `npm run lint` \(`tsc --noEmit`\) antes de cualquier despliegue. Si el compilador detecta un error de tipos, resuelvalo antes de compilar para produccion.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 345 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 325 Td (9. GLOSARIO Y GUIA PRACTICA PARA EL PROPIETARIO) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 295 Td (Para facilitar la comunicacion entre el propietario de la tienda y su equipo tecnico, a) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 283 Td (continuacion se definen los terminos fundamentales en lenguaje accesible:) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 263 Td (* **Frontend:** La parte visual de la tienda que el cliente ve en su celular o) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 251 Td (computadora \(botones, fotos, textos y carrito\).) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 239 Td (* **Backend \(API\):** El servidor que opera tras bambalinas. Es el encargado de calcular) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 227 Td (los precios reales, descontar el inventario y hablar con los bancos.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 215 Td (* **Base de Datos \(PostgreSQL\):** El archivo digital permanente donde se guardan de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 203 Td (forma organizada los pedidos, los clientes y la lista de pantalones.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 191 Td (* **Transaccion de Base de Datos:** Una regla que asegura que todas las operaciones de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 179 Td (una compra se completen con exito o no se aplique ninguna. Evita que a un cliente se le) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 167 Td (cobre si el sistema se desconecta antes de guardar el pedido.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 155 Td (* **Idempotencia \(`idempotency_key`\):** Una proteccion que evita que un cliente sea) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 143 Td (cobrado dos veces si presiona repetidamente el boton de pago por impaciencia o conexion) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 131 Td (   lenta.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 119 Td (* **Webhook:** Una notificacion automatica que la pasarela de pago \(PixelPay o PayPal\)) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 107 Td (envia a nuestro servidor para avisarle que un cobro fue autorizado.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 95 Td (* **Tokenizacion:** El metodo por el cual los datos de una tarjeta se convierten en un) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 83 Td (codigo seguro, permitiendo cobrar sin que nadie en KAS Store pueda ver el numero de la) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Length 3638 >>
+stream
+BT /F2 8 Tf 0.5 0.35 0.15 rg 50 800 Td (KAS STORE - GUIA TECNICA Y MAPA DE ARCHIVOS | LA MASICA, HONDURAS) Tj ET
+0.8 0.75 0.7 rg 50 792 495 1 re f
+0.8 0.75 0.7 rg 50 48 495 1 re f
+BT /F1 8 Tf 0.4 0.4 0.4 rg 50 36 Td (Pagina 10 de 10 | KAS Store - Mora-Grafic's Studio) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 750 Td (   tarjeta.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 730 Td (---) Tj ET
+BT /F2 12 Tf 0.72 0.54 0.29 rg 50 710 Td (10. ESTADO DE VERIFICACION, LIMITACIONES CONOCIDAS Y OBSERVACIONES) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 680 Td (10.1 Modulos Verificados y Funcionales) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 663 Td (* [x] Navegacion completa en movil, tableta y escritorio.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 651 Td (* [x] Catalogo con filtros reactivos y sincronizacion de base de datos.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 639 Td (* [x] Detalle de producto con bloqueo de combinaciones agotadas.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 627 Td (* [x] Bolsa de compras y drawer interactivo con persistencia local.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 615 Td (* [x] Checkout adaptado con los 18 departamentos y tarifas de flete de Honduras.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 603 Td (* [x] Reserva transaccional con `SELECT FOR UPDATE` en PostgreSQL.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 591 Td (* [x] Simulador bancario de pruebas con tarjetas de aprobacion y codigos de rechazo) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 579 Td (   CNBS.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 567 Td (* [x] Integracion de ordenes de PayPal REST API v2.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 555 Td (* [x] Panel administrativo con actualizacion de estados de pedidos, edicion de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 543 Td (inventario en vivo y subida de fotos.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 531 Td (* [x] Marcado Schema.org, `robots.txt`, `sitemap.xml` y pagina 404 personalizada.) Tj ET
+BT /F2 10 Tf 0.2 0.2 0.2 rg 50 511 Td (10.2 Limitaciones Conocidas y Pasos Pendientes para el Propietario) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 494 Td (* **Credenciales Reales en Produccion:** Las pasarelas operan actualmente en modo de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 482 Td (prueba seguro \(sandbox\). Para procesar cobros bancarios reales, el propietario de KAS) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 470 Td (Store debe firmar el contrato comercial con PixelPay Honduras y configurar las llaves en) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 458 Td (las variables de entorno.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 446 Td (* **Revision Legal Hondurena:** Los textos de las politicas fueron redactados tomando) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 434 Td (como modelo el Decreto 149-2014 \(Ley de Comercio Electronico\) y el Decreto 24-2008) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 422 Td (\(Proteccion al Consumidor\). Se recomienda su validacion final por un profesional del) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 410 Td (derecho en Honduras.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 398 Td (* **Notificaciones por Correo:** El sistema registra los eventos de compra en la base de) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 386 Td (datos y provee enlaces a WhatsApp; la emision de correos automaticos requerira) Tj ET
+BT /F1 9 Tf 0.25 0.25 0.25 rg 50 374 Td (configurar las credenciales SMTP o API de Resend en el servidor.) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 354 Td (---) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 334 Td (*Manual tecnico elaborado por Mora-Grafic's Studio para KAS Store. La Masica, Atlantida,) Tj ET
+BT /F1 9 Tf 0.18 0.15 0.13 rg 50 322 Td (Honduras. Todos los derechos reservados.*) Tj ET
+endstream
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000176 00000 n 
+0000000246 00000 n 
+0000000321 00000 n 
+0000000389 00000 n 
+0000000536 00000 n 
+0000000683 00000 n 
+0000000830 00000 n 
+0000000977 00000 n 
+0000001125 00000 n 
+0000001273 00000 n 
+0000001421 00000 n 
+0000001569 00000 n 
+0000001717 00000 n 
+0000001865 00000 n 
+0000008266 00000 n 
+0000015265 00000 n 
+0000021509 00000 n 
+0000027376 00000 n 
+0000033282 00000 n 
+0000039268 00000 n 
+0000044874 00000 n 
+0000051590 00000 n 
+0000058426 00000 n 
+trailer
+<< /Size 26 /Root 1 0 R >>
+startxref
+62117
+%%EOF

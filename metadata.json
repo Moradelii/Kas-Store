@@ -1,0 +1,6 @@
+{
+  "name": "KAS Store",
+  "description": "Tienda online premium especializada en pantalones para hombre y mujer en La Masica, Atlántida, Honduras. Envíos a todo el país.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
