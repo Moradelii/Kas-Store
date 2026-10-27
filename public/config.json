@@ -67,29 +67,111 @@
   },
   "products": [
     {
-      "id": "kas-denim-01",
-      "name": "Jeans Hombre Recto Índigo Profundo Raw",
+      "id": "kas-JCLE-002",
+      "name": "Jeans Pepe Hombre Slim",
       "shortDescription": "Mezclilla rígida pesada 13 oz en tonalidad índigo oscuro sin deslave y remaches cobrizos.",
       "fullDescription": "Corte recto atemporal confeccionado con denim de alta densidad y costuras dobles reforzadas. Su tonalidad índigo profundo conserva el tinte original para un aspecto pulido que adquiere carácter único con cada puesta.",
       "priceHnl": 890,
       "originalPriceHnl": 1150,
+      "category": "slim-fit",
+      "categoryLabel": "Slim Fit",
+      "gender": "hombre",
+      "fitType": "Recto Regular",
+      "denimWash": "Índigo Profundo Raw",
+      "images": [
+        "/images/catalogo/hombres/jean-1.jpeg"
+      ],
+      "availableSizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "availableColors": [
+        {
+          "name": "Índigo Profundo",
+          "hex": "#1C273A",
+          "washTone": "Índigo Profundo Raw"
+        }
+      ],
+      "isNew": true,
+      "isSale": true,
+      "isFeatured": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Denim Pesado (13 oz)",
+      "careInstructions": "Lavar al revés con agua fría."
+    },
+    {
+      "id": "kas-JCLE-001",
+      "name": "Jean Levi's Recto",
+      "shortDescription": "Jean Levi's Recto - Calidad KAS Store.",
+      "fullDescription": "Jean Levi's Recto",
+      "priceHnl": 890,
+      "originalPriceHnl": 1200,
       "category": "rectos",
       "categoryLabel": "Jeans Rectos",
       "gender": "hombre",
       "fitType": "Recto Regular",
       "denimWash": "Índigo Profundo Raw",
       "images": [
-        "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg",
-        "/images/catalogo/hombres/category_men_denim_1792794156758.jpg"
+        "/images/catalogo/hombres/jean-2.jpeg"
       ],
-      "availableSizes": ["28", "30", "32", "34", "36", "38"],
+      "availableSizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
       "availableColors": [
-        { "name": "Índigo Profundo", "hex": "#1C273A", "washTone": "Raw Denim" },
-        { "name": "Azul Medio Lavado", "hex": "#3E5C86", "washTone": "Stone Wash" }
+        {
+          "name": "Índigo Profundo",
+          "hex": "#213f67",
+          "washTone": "Índigo Profundo Raw"
+        }
       ],
-      "isFeatured": true,
-      "isNew": false,
+      "isNew": true,
       "isSale": true,
+      "isFeatured": true,
+      "stockStatus": "in_stock",
+      "fabricComposition": "100% Algodón Denim Pesado (13 oz)",
+      "careInstructions": "Lavar al revés con agua fría."
+    },
+    {
+      "id": "kas-denim-01",
+      "name": "Jeans Pepe Hombre",
+      "shortDescription": "Mezclilla rígida pesada 13 oz en tonalidad índigo oscuro sin deslave y remaches cobrizos.",
+      "fullDescription": "Corte recto atemporal confeccionado con denim de alta densidad y costuras dobles reforzadas. Su tonalidad índigo profundo conserva el tinte original para un aspecto pulido que adquiere carácter único con cada puesta.",
+      "priceHnl": 890,
+      "originalPriceHnl": 1150,
+      "category": "slim-fit",
+      "categoryLabel": "Slim Fit",
+      "gender": "hombre",
+      "fitType": "Recto Regular",
+      "denimWash": "Índigo Profundo Raw",
+      "images": [
+        "/images/catalogo/hombres/jean-3.jpeg"
+      ],
+      "availableSizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "availableColors": [
+        {
+          "name": "Índigo Profundo",
+          "hex": "#181f31",
+          "washTone": "Índigo Profundo Raw"
+        }
+      ],
+      "isNew": true,
+      "isSale": true,
+      "isFeatured": true,
       "stockStatus": "in_stock",
       "fabricComposition": "100% Algodón Denim Pesado (13 oz)",
       "careInstructions": "Lavar al revés con agua fría."
@@ -109,9 +191,18 @@
         "/images/catalogo/hombres/category_men_denim_1792794156758.jpg",
         "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg"
       ],
-      "availableSizes": ["30", "32", "34", "36"],
+      "availableSizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
       "availableColors": [
-        { "name": "Azul Medio Stone", "hex": "#3B608C", "washTone": "Medium Stone Wash" }
+        {
+          "name": "Azul Medio Stone",
+          "hex": "#3B608C",
+          "washTone": "Medium Stone Wash"
+        }
       ],
       "isFeatured": true,
       "isNew": true,
@@ -134,9 +225,19 @@
       "images": [
         "/images/catalogo/hombres/model_men_jeans_1792801034731.jpg"
       ],
-      "availableSizes": ["30", "32", "34", "36", "38"],
+      "availableSizes": [
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
       "availableColors": [
-        { "name": "Azul Marino Saturado", "hex": "#21334E", "washTone": "Dark Wash" }
+        {
+          "name": "Azul Marino Saturado",
+          "hex": "#21334E",
+          "washTone": "Dark Wash"
+        }
       ],
       "isFeatured": false,
       "isNew": true,
@@ -159,9 +260,18 @@
       "images": [
         "/images/catalogo/hombres/category_men_denim_1792794156758.jpg"
       ],
-      "availableSizes": ["28", "30", "32", "34"],
+      "availableSizes": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
       "availableColors": [
-        { "name": "Negro Profundo", "hex": "#181818", "washTone": "Stay-Black" }
+        {
+          "name": "Negro Profundo",
+          "hex": "#181818",
+          "washTone": "Stay-Black"
+        }
       ],
       "isFeatured": false,
       "isNew": false,
@@ -186,9 +296,19 @@
         "/images/catalogo/mujeres/model_women_jeans_1792801034633.jpg",
         "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
       ],
-      "availableSizes": ["24", "26", "28", "30", "32"],
+      "availableSizes": [
+        "24",
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
       "availableColors": [
-        { "name": "Celeste Hielo Vintage", "hex": "#7C9EB2", "washTone": "Light Vintage Wash" }
+        {
+          "name": "Celeste Hielo Vintage",
+          "hex": "#7C9EB2",
+          "washTone": "Light Vintage Wash"
+        }
       ],
       "isFeatured": true,
       "isNew": true,
@@ -211,9 +331,19 @@
       "images": [
         "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
       ],
-      "availableSizes": ["26", "28", "30", "32", "34"],
+      "availableSizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
       "availableColors": [
-        { "name": "Azul Índigo Medio", "hex": "#33527A", "washTone": "Medium Indigo" }
+        {
+          "name": "Azul Índigo Medio",
+          "hex": "#33527A",
+          "washTone": "Medium Indigo"
+        }
       ],
       "isFeatured": true,
       "isNew": false,
@@ -236,9 +366,18 @@
       "images": [
         "/images/catalogo/mujeres/model_women_jeans_1792801034633.jpg"
       ],
-      "availableSizes": ["26", "28", "30", "32"],
+      "availableSizes": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
       "availableColors": [
-        { "name": "Azul Oscuro Enzimático", "hex": "#1E2D42", "washTone": "Enzyme Dark Wash" }
+        {
+          "name": "Azul Oscuro Enzimático",
+          "hex": "#1E2D42",
+          "washTone": "Enzyme Dark Wash"
+        }
       ],
       "isFeatured": false,
       "isNew": true,
@@ -261,9 +400,19 @@
       "images": [
         "/images/catalogo/mujeres/category_women_trousers_1792794159027.jpg"
       ],
-      "availableSizes": ["24", "26", "28", "30", "32"],
+      "availableSizes": [
+        "24",
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
       "availableColors": [
-        { "name": "Azul Marino Pulido", "hex": "#192639", "washTone": "Clean Dark Denim" }
+        {
+          "name": "Azul Marino Pulido",
+          "hex": "#192639",
+          "washTone": "Clean Dark Denim"
+        }
       ],
       "isFeatured": false,
       "isNew": false,
@@ -288,9 +437,21 @@
         "/images/catalogo/niños/model_kids_jeans_1792801035749.jpg",
         "/images/catalogo/niños/category_denim_kids_1792796354351.jpg"
       ],
-      "availableSizes": ["4", "6", "8", "10", "12", "14", "16"],
+      "availableSizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
       "availableColors": [
-        { "name": "Azul Medio Activo", "hex": "#37577D", "washTone": "Durable Wash" }
+        {
+          "name": "Azul Medio Activo",
+          "hex": "#37577D",
+          "washTone": "Durable Wash"
+        }
       ],
       "isFeatured": true,
       "isNew": false,
@@ -313,9 +474,19 @@
       "images": [
         "/images/catalogo/niños/category_denim_kids_1792796354351.jpg"
       ],
-      "availableSizes": ["6", "8", "10", "12", "14"],
+      "availableSizes": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
       "availableColors": [
-        { "name": "Azul Índigo Suave", "hex": "#2F4866", "washTone": "Soft Finish" }
+        {
+          "name": "Azul Índigo Suave",
+          "hex": "#2F4866",
+          "washTone": "Soft Finish"
+        }
       ],
       "isFeatured": false,
       "isNew": true,
@@ -339,9 +510,20 @@
         "/images/catalogo/niñas/model_kids_jeans_1792801035749.jpg",
         "/images/catalogo/niñas/category_denim_kids_1792796354351.jpg"
       ],
-      "availableSizes": ["4", "6", "8", "10", "12", "14"],
+      "availableSizes": [
+        "4",
+        "6",
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
       "availableColors": [
-        { "name": "Celeste Nube Suave", "hex": "#8AAEC8", "washTone": "Baby Blue Denim" }
+        {
+          "name": "Celeste Nube Suave",
+          "hex": "#8AAEC8",
+          "washTone": "Baby Blue Denim"
+        }
       ],
       "isFeatured": true,
       "isNew": true,
@@ -365,9 +547,19 @@
       "images": [
         "/images/catalogo/niñas/category_denim_kids_1792796354351.jpg"
       ],
-      "availableSizes": ["6", "8", "10", "12", "14"],
+      "availableSizes": [
+        "6",
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
       "availableColors": [
-        { "name": "Azul Medio Dulce", "hex": "#3B597F", "washTone": "Soft Stone" }
+        {
+          "name": "Azul Medio Dulce",
+          "hex": "#3B597F",
+          "washTone": "Soft Stone"
+        }
       ],
       "isFeatured": false,
       "isNew": false,
