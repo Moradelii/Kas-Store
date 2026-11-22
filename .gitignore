@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.env*
+!.env.example
+.aistudio/
+public/assets/aistudio/
+public/uploads/*
+data/store.json
+.wrangler/

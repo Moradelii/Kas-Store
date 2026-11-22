@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-sand: #E6D5B8;
+    --color-sand-secondary: #D4C4A8;
+    --color-sand-light: #F2EBDD;
+    --color-dark: #111111;
+    --color-dark-carbon: #1A1A1A;
+    --color-warm-white: #F9F8F5;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6, .font-heading {
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Custom scrollbar for modern luxury feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F2EBDD;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4C4A8;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #111111;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(24px) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.65s cubic-bezier(0.16, 1, 0.3, 1) 0.35s both;
+}

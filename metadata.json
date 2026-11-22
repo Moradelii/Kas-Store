@@ -1,0 +1,6 @@
+{
+  "name": "KAS Store — Premium Men's Fashion",
+  "description": "Tienda online de moda masculina premium especializada en jeans y camisetas de alta calidad en Honduras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
